@@ -34,3 +34,9 @@
 
 Установите и запустите Kibana.
 
+<img width="1235" height="797" alt="image" src="https://github.com/user-attachments/assets/fbeeb6e9-387c-4cbe-b903-6dab644e6ca9" />
+
+### Задание 3. Logstash
+
+Установите и запустите Logstash и Nginx. С помощью Logstash отправьте access-лог Nginx в Elasticsearch.
+
