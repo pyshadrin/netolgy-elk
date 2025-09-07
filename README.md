@@ -36,7 +36,18 @@
 
 <img width="1235" height="797" alt="image" src="https://github.com/user-attachments/assets/fbeeb6e9-387c-4cbe-b903-6dab644e6ca9" />
 
+---
+
 ### Задание 3. Logstash
 
 Установите и запустите Logstash и Nginx. С помощью Logstash отправьте access-лог Nginx в Elasticsearch.
 
+<img width="1235" height="797" alt="image" src="https://github.com/user-attachments/assets/8262b52f-257a-4ea2-b780-c416c8dd5e40" />
+
+### Задание 4. Filebeat
+
+Установите и запустите Filebeat. Переключите поставку логов Nginx с Logstash на Filebeat.
+
+<img width="1235" height="797" alt="image" src="https://github.com/user-attachments/assets/0b303e65-c2cc-4320-89ed-e3a353a6c9f6" />
+
+---
